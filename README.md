@@ -1,7 +1,4 @@
 # Project: *virtual assistant*
-![titles](https://user-images.githubusercontent.com/58658294/105815250-3964f800-5fe5-11eb-8a46-f1d15feeb438.png)
-
-
 
 *A virtual assistant for your daily needs.*
 Link: https://virtual-assistant-flask.herokuapp.com/
